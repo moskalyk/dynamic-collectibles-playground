@@ -13,7 +13,7 @@
 - evaporate -> burn rain or freeze to pool
 
 ### lvl 3 -> rain + wave*A + freeze*B > 300
-- extinguish ->
+- extinguish something or snowglobe
 
 #### thoughts
 - liquidity vs liquid
