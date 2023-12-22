@@ -22,6 +22,23 @@
 - lvl 2: rent car
 - lvl N: <insert_vehicle>
 
+## 3. graffiti
+### lvl 1
+- browse popular
+### lvl 2 (evolve 1->2: # of views)
+- post with prompt
+- expand horizon
+### lvl 3 (evolve 2->3: # of posts)
+- browse recent
+- upvote
+- downvote
+### lvl 4 (evolve 3->4: # of votes)
+- comment
+- mint from others collection
+### lvl 5 (evolve 4->5: # of comments)
+- follow with notifications
+- expiry on posts
+  
 #### thoughts
 - liquidity vs liquid
 - what came first, rain or wave
