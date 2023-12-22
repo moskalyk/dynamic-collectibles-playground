@@ -22,23 +22,26 @@
 - lvl 2: rent car
 - lvl N: <insert_vehicle>
 
-## 3. graffiti
+## 3. collectible graffiti
 ### lvl 1
 - browse popular
-### lvl 2 (evolve 1->2: # of views)
+### lvl 2 (evolve 1->2: # of views / time_w > w_avg)
 - post with prompt
 - expand horizon
-### lvl 3 (evolve 2->3: # of posts)
+### lvl 3 (evolve 2->3: # of posts / time_x > x_avg)
 - browse recent
 - upvote
 - downvote
-### lvl 4 (evolve 3->4: # of votes)
+### lvl 4 (evolve 3->4: # of votes / time_y > y_avg)
 - comment
 - mint from others collection
-### lvl 5 (evolve 4->5: # of comments)
+### lvl 5 (evolve 4->5: # of comments / time_z > z_avg)
 - follow with notifications
 - expiry on posts
   
+hypothesis: where n_avg count for live users
+hypothesis: live users as recent 30 day as online
+
 #### thoughts
 - liquidity vs liquid
 - what came first, rain or wave
